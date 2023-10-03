@@ -1,0 +1,16 @@
+body{
+	background-color: orange;
+}
+h1{
+	color: white;
+}
+p{
+	color: floralwhite;
+}
+a{
+	color: whitesmoke;
+}
+img{
+	height: 300px;
+	width: 100;
+}
